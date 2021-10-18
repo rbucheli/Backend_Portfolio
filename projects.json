@@ -1,0 +1,14 @@
+[
+  {
+    "name": "My Final Fantasy",
+    "live": "https://app.herokuapp.com/whatever",
+    "git": "https://github.com/rbucheli/Final-Fantasy-XIV-Character-App",
+    "image": "https://i.imgur.com/mK8pWpg.png"
+  },
+  {
+    "name": "Character Vault",
+    "live": "https://rbucheli2.herokuapp.com/characters",
+    "git": "https://github.com/rbucheli/rodrigo-project2",
+    "image": "https://i.imgur.com/k7hAZYt.jpg"
+  }
+]
